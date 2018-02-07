@@ -1,0 +1,23 @@
+{
+  "name": "bithub",
+  "version": "1.0.0",
+  "description": "MEAN stack Blog App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "please-wait": "0.0.5"
+  },
+  "author": "Paritosh Sharma",
+  "license": "ISC"
+}
